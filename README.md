@@ -1,6 +1,37 @@
-# Quản Lý Nhà Sách ATHENA
-- Giới thiệu bản thân: 	Em đóng vai trò là Scrum Master, chịu trách nhiệm điều hành dự án. Tạo điều kiện thuận lợi cho mọi giao tiếp và hợp tác giữa ban lãnh đạo và thành viên trong nhóm để đảm bảo đạt được kết quả và chỉ tiêu đề ra. 
-- Giới thiệu nhóm : Chúng em đang hoàn thành dự án quản lý nhà sách bao gồm các thành viên : Hào (Dev), Đa (Leader), Mỹ Anh (Product Owner), Khang (Dev), Thủy Tiên (Scrum Master).
-- Các chức năng chính: Xem trang chủ, Xem sản phẩm, Xem chi tiết sản phẩm, Xem thông tin cá nhân, Xem danh mục sản phẩm, Quản lý giỏ hàng(CRUD), Tìm kiếm sản phẩm, Đăng kí tài khoản, Đăng nhập tài khoản, Đăng xuất tài khoản, Thêm sản phẩm vào giỏ hàng, Thay đổi thông tin giao hàng, Quản lý tài khoản khách hàng(CRUD), Quản lý sản phẩm(CRUD), Quản lý đơn hàng(Thêm,sửa), Quản lý khuyến mãi(CRUD).
-- Các kỹ thuật, ngôn ngữ sử dụng : visual studio 2019, C#, SQL
-Giới thiệu nhà sách: Nhà Sách ATHENA  là một nhà sách chuyên kinh doanh các loại sách và văn phòng phẩm. Với nhiều năm hoạt động trong lĩnh vực này, nhà sách đã xây dựng được uy tín và có một lượng khách hàng trung thành nhất định. Để mở rộng phạm vi kinh doanh và bắt kịp xu thế thương mại điện tử, Nhà Sách ATHENA mong muốn xây dựng một hệ thống bán hàng trực tuyến nhằm phục vụ tốt hơn nhu cầu của khách hàng trên toàn quốc. Hệ thống mới của Nhà Sách ATHENA phải đảm bảo người dùng khi truy cập vào website có thể dễ dàng tìm kiếm và lựa chọn các đầu sách, văn phòng phẩm, hoặc các sản phẩm liên quan. Website cần cung cấp đầy đủ thông tin về các sản phẩm, chính sách đổi trả, bảo hành và các chương trình khuyến mãi hiện hành.  Giao diện website cần thân thiện, dễ sử dụng, cho phép khách hàng nhanh chóng tìm kiếm các loại sách, văn phòng phẩm thông qua các bộ lọc như thể loại, tác giả, hoặc giá cả.  Khách hàng có thể đặt mua sách và thanh toán trực tuyến thông qua nhiều hình thức như chuyển khoản ngân hàng, ví điện tử hoặc thẻ tín dụng. Ngoài ra, khách hàng cũng có thể chọn phương thức thanh toán trực tiếp tại cửa hàng khi đến lấy sách.  Nhà Sách ATHENA cung cấp hai lựa chọn cho khách hàng: nhận sách trực tiếp tại cửa hàng hoặc sử dụng dịch vụ giao hàng tận nơi với phí vận chuyển hợp lý. 
+
+👋 Giới thiệu
+
+Xin chào, tôi là Dương Thị Thủy Tiên, sinh viên năm 3 ngành Công nghệ Thông tin tại trường Đại học Ngoại Ngữ Tin Học HUFLIT! Tôi luôn sẵn sàng hỗ trợ bạn trong mọi thắc mắc hoặc vấn đề mà bạn gặp phải. Đừng ngần ngại đặt câu hỏi nhé! 😊
+
+👥 Giới thiệu về nhóm và đề tài
+
+Tôi hiện đang là thành viên của Nhóm 1, gồm 5 người, và đảm nhiệm vai trò Scrum Master. Chúng tôi đang thực hiện một dự án phát triển Trang web bán sách ATHENA. Trang web này nhằm mục tiêu cung cấp nền tảng mua bán sách tiện lợi, giúp người dùng dễ dàng tìm kiếm và mua sách trực tuyến. 📚💻
+
+💻 Công nghệ và ngôn ngữ lập trình
+
+Trong dự án ATHENA, chúng tôi đã sử dụng các công nghệ và ngôn ngữ lập trình sau:
+C# , HTML , SQL
+
+Tôi phụ trách vai trò Scrum Master, đảm bảo quản lý quy trình phát triển dự án, hỗ trợ nhóm làm việc hiệu quả, và kết nối các thành viên để hoàn thành các mục tiêu đề ra đúng hạn.
+
+🎯 Kế hoạch và mục tiêu cá nhân
+
+Mục tiêu trước mắt của tôi là tốt nghiệp đúng hạn. Trong tương lai, tôi mong muốn trở thành một Scrum Master chuyên nghiệp hoặc làm việc trong lĩnh vực Nhân sự (HR) để giúp xây dựng và phát triển đội ngũ nhân lực mạnh. 💪
+
+🤝 Mình có thể hỗ trợ bạn như thế nào?
+
+Thông tin cá nhân: Nếu bạn cần biết thêm về tôi, bạn có thể hỏi trực tiếp. 📋
+
+Kiến thức chuyên môn: Tôi có kinh nghiệm trong nhiều lĩnh vực khác nhau và sẽ cố gắng giúp bạn với những kiến thức mà tôi có. 💡
+
+Hỗ trợ giao tiếp: Nếu bạn cần giúp đỡ trong việc liên lạc hay trao đổi thông tin, tôi luôn sẵn lòng. 🤝
+
+📞 Liên hệ
+
+Cứ hỏi bất cứ điều gì mà bạn cần. Tôi sẽ cố gắng hết sức để giúp bạn tìm ra giải pháp! ✨
+
+📌 Lưu ý
+
+Luôn chân thành: Mọi câu hỏi đều quan trọng và đáng được trả lời. 💬
+
+Thời gian phản hồi: Tôi sẽ cố gắng phản hồi nhanh nhất có thể. ⏱️
